@@ -11,6 +11,7 @@ The database `stores.db` contains 8 interrelated tables:
 * `customers`, `orders`, `payments`: Customer lifecycle
 * `products`, `productlines`, `orderdetails`: Product catalog and sales
 * `employees`, `offices`: Sales staff and locations
+<img width="701" height="560" alt="image" src="https://github.com/user-attachments/assets/06a60e2e-1767-42fb-a05f-b0ea081ea6ca" />
 
 ---
 
